@@ -1,0 +1,12 @@
+{
+    "name": "makasim/testphpapp",
+    "authors": [
+        {
+            "name": "Maksim Kotlyar",
+            "email": "kotlyar.maksim@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.4"
+    }
+}
